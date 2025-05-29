@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Senior HTML Developer</h1>
+<h1 align="left">Developer</h1>
 
 ###
 
